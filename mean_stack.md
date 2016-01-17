@@ -95,6 +95,7 @@ Fire it All Up
 --------------
 * `$ selenium-standalone start` -> runs selenium server
 * `$ npm start` (or `nodemon`) -> starts the server
+* `$ mongod` -> starts the MongoDB process
 
 What are all those packages?
 ----------------------------
